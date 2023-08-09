@@ -5,6 +5,7 @@ int main()
     //Program to Check Whether a Number is Prime or Not
     int num,i,temp=0;
     cin>>num;
+    // Here we taking input
 
     //here we can reduce the no of iteration by using n/2 instead pf n.
     //because a number n can not divisible by a number greator than n/2.
